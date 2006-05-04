@@ -1,0 +1,5 @@
+<use name=RecoBTag/XMLCalibration>
+<use name=FWCore/Framework>                                                                                                                                                                                    
+<flags SEAL_PLUGIN_NAME="testRecoBTagXMLCalibration">
+<library file=XMLCalibrationTest.cc name=testRecoBTagXMLCalibration>
+</library>
